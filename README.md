@@ -10,9 +10,11 @@ The purpose CSE DEPARTMENT REPOSITORY is to allow the administrator of any organ
 ---
 ## Configurations 
 
+--> Start
+
 --> install Xampp for Windows and lampp for linux
 
---> download project and save whole directory to htdocs directory in xammp diectortoy
+--> download project and save whole directory to htdocs directory in xammp directory
 
 --> Go to database Folder and Check the updated db.sql file
 
