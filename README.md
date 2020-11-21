@@ -16,11 +16,11 @@ The purpose CSE DEPARTMENT REPOSITORY is to allow the administrator of any organ
 
 --> download project and save whole directory to htdocs directory in xammp directory
 
---> Go to database Folder and Check the updated db.sql file
+--> Go to database Folder and Check the updated_db.sql file
 
 --> open Xampp Create database "uploadfile"
 
---> now import "updated db.sql"
+--> now import "updated_db.sql"
 
 --> done
 
