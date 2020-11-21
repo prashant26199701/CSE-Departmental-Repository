@@ -25,19 +25,29 @@ The purpose CSE DEPARTMENT REPOSITORY is to allow the administrator of any organ
 ---
 ### Home Page
 <img src="ScreenShots/home.png">
+
 ### Administration Page
 <img src="ScreenShots/admin.png">
 ### Admin Login Page
 <img src="ScreenShots/adminlo.png">
+
 ### After Login Page
 <img src="SreenShots/afterlogin.png">
+
 ### Student Registration Page
 <img src="ScreenShots/studentreg.png">
+
 ### Student show Page
 <img src="ScreenShots/studentshow.png">
+
 ### Faculty Show Page
 <img src="ScreenShots/facshow.png">
+
+### Faculty Additional Details
+<img src="ScreenShots/addi.png">
+
 ### HOD Desk
 <img src="ScreenShots/hod.png">
+
 ### TPO Desk Page
 <img src="ScreenShots/tpo.png">
