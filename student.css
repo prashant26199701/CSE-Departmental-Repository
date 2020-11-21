@@ -1,0 +1,26 @@
+.div1
+{
+
+	margin-top: 80px;
+	box-shadow: 2px 2px 2px 2px black;
+	height: 60px;
+	width: 1029px;
+background-color: rgb(0,112,223);
+font-size: 50px;
+text-align: center;
+}
+.cntnt
+{
+	margin-top: 40px;
+	width: 1029px;
+	height: auto;
+	background-color: red;
+
+}
+.studentadd
+{
+	width: 1029px;
+	height: 200px;
+	background-color: red;
+}
+

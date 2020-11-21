@@ -1,0 +1,190 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+</style>
+
+
+	<link rel="stylesheet" type="text/css" href="index.css"> 
+</head>
+<body>
+	<header><div>
+
+<div class="logo"> 
+	<div class="leftfloat">
+		<div class="cse" text="white"><font class="font1" color="white">COMPUTER SCIENCE & ENGINEERING </font><br> <font class="h4" color="white">KNIT SULTANPUR</font></div>
+		<div class="vl"></div>
+	<div   class="leftfloat1"></div>
+</div><hr>
+
+
+	
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.navbar {
+	margin-top: 14px;
+  overflow: hidden;
+  background-color: rgb(0,112,223); 
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+  background-color: rgb(0,112,180);
+}
+
+.subnav-content {
+  display: none;
+  position: absolute;
+  
+  right: 18px;
+  background-color: rgb(0,112,180);
+  width: 1029px;
+  z-index: 1;
+}
+
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color:rgb(0,112,223);
+  color: black;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
+}
+
+
+
+
+.subnav-content-1 {
+  display: none;
+  position: absolute;
+  
+  right: 30px;
+  background-color: rgb(0,112,180);
+  width: 1029px;
+  z-index: 2;
+}
+
+.subnav-content-1 a {
+  float: left;
+  color: white;
+ 
+  text-decoration: none;
+}
+
+.subnav-content-1 a:hover {
+  background-color:rgb(0,112,223);
+  color: red;
+   right:100px;
+   
+}
+
+.subnav-content:hover .subnav-content-1 {
+  display: block;
+}
+
+
+
+
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="#home">Home</a>
+  <div class="subnav">
+    <button class="subnavbtn">About <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="#company">Company</a>
+      <a href="#team">Team</a>
+      <a href="#careers">Careers</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">Services <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="#bring">Bring</a>
+      <a href="#deliver">Deliver</a>
+      <a href="#package">Package</a>
+      <a href="#express">Express</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">Partners <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="#link1">link1</a>
+      
+      <a href="#link2"></a>
+      <a href="#link3">Link 3</a>
+      <a href="#link4">Link 4</a>
+    </div>
+  </div>
+  <a href="#contact">Contact</a>
+  <div class="subnav">
+    <button class="subnavbtn">About <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="#company">Company</a> 
+      <a href="#team">Team</a>
+      <a href="#careers">Careers</a>
+    </div>
+  </div>
+</div>
+
+<div style="padding:0 16px">
+ </div>
+
+
+
+</div></header>
+
+
+
+</body>
+</html>
+
+
+
+ 

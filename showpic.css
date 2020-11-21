@@ -1,0 +1,86 @@
+.faculty
+{
+	height: 50px;
+	width: 1029px;
+	margin-left: 150px;
+	background-color: rgb(0,112,223);
+	margin-top: 50px;
+	text-align: center;
+	
+	font-size: 50px;
+}
+
+
+
+
+
+
+
+
+img {
+  border-radius: 0%;
+  margin-top: 50px;
+  margin-left: 10px;
+
+}
+
+
+
+.column {
+ float: left;
+  width: 218px;
+  margin-top: 60px;
+margin-left: 170px;
+height: 393px;
+box-shadow: 3px  3px  3px 3px #888888;
+
+background-color: white;
+
+
+border: none;
+
+
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.imge
+{
+
+}
+.post
+{text-align:center;
+	margin-top:20px;
+	height: 20px;
+	width: 187px; 
+	
+	
+}
+.branch
+{text-align:center;
+	margin-top:10px;
+	height: 20px;
+	width: 187px;
+	padding-left: 10px; 
+	
+	
+}
+.id1
+{
+	
+	margin-top: -33px;
+	margin-left: 5px;
+
+
+}
+.rowname
+{
+	height: 20px;
+	width: 187;
+text-align: center;
+	margin-top:  10px;
+  src: url(sansation_light.woff); 
+  font-family: Arial, Helvetica, sans-serif;
+}

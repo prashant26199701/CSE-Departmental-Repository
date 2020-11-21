@@ -1,0 +1,279 @@
+.vl {
+	
+	margin-top: 30px;
+  border:solid white;
+  height: 100px;
+  width: 1px;
+  float: left;
+
+}
+
+
+
+.cse
+{
+   
+    float: left;
+	border:none;
+	height: 78px;
+	width:580px;
+	border-color: white;
+
+margin-top: 40px;
+margin-left: 3px;
+}
+.cse2
+{
+   
+   margin-left: 210px;
+	border:none;
+	height: auto;
+	width:900px;
+	
+
+
+}
+
+.font1
+{
+
+
+	margin-left:0px;
+	font-size: 30px;
+	text-decoration-color: white;
+
+}
+.h4
+{
+
+
+	margin-left:380px;
+	font-size: 20px;
+
+}
+
+.nav
+{
+	margin-top:20px;
+	margin-left: 10px;
+	
+
+}
+.wrapper{
+
+	margin-left:150px
+
+	height: auto;
+	width: auto;
+	border:groove;
+}
+.div1
+{
+height: 250px;
+width: 1029px;
+border:none;
+border-color:rgb(0,112,223);
+font-family: Arial;
+margin-top: 1px;
+margin-right: 150px;
+margin-left: 150px;
+background: url('knitinner_09.jpg') no-repeat;
+	background-size: cover;
+	}
+	.div2
+{
+height: auto;
+width: 1029px;
+border:none;
+border-color:black ;
+font-family: Arial;
+margin-top: 1px;
+margin-right: 150px;
+margin-left: 150px;
+}
+.college
+{
+	
+}
+.leftname
+{
+	float: right;
+	border: groove;
+	margin-right:1px;
+height: 148px;
+width: 600px;
+border-color: black;
+}
+
+
+.leftfloat
+{
+	
+	float: right;
+	border: none;
+	
+	margin-right: 20px;
+height: 148px;
+width: 800px;
+}
+
+.leftfloat1
+{
+
+	margin-top: 24px;
+	border:none;
+	float: right;
+	margin-right:80px;
+height: 100px;
+width: 100px;
+background: url('slideimagefrontpage/knit.jpg') no-repeat ;
+background-size: cover;
+
+}
+
+.leftfloat2
+{
+
+	
+	border:none;
+	float: right;
+	
+height: auto;
+width: 290px;
+
+
+}
+
+
+
+
+
+ul
+{
+
+	padding:0px;
+	margin: 0px;
+	list-style: none;
+	font-size: 20px;
+	
+
+
+
+	}
+	.wrapperinner
+	{
+		float: left;
+		border:solid;
+		height: 20px;
+		width: 20px;
+		margin-left: 10px;
+		margin-right: 1px;
+		
+
+	}
+	.top {
+margin-top:0px;
+background-color: red;
+	}
+	
+
+ul li
+{
+	text-decoration: none;
+float: left;
+width: 120px;
+height: 40px;
+background-color:rgb(0,112,223);
+opacity:1.0;
+line-height: 40px;
+text-align: center;
+
+
+}
+.news
+{
+	text-decoration: none;
+
+}
+hr
+{margin-top: 159px;
+width: 1029px;
+}
+ul li a{
+
+
+	text-decoration: none;
+	color:black;
+	display: block;
+}
+ul li a:hover{
+	color:white;
+
+	background-color:rgb(0,112,223);
+}
+ul li ul li
+{
+
+	color:white; 
+	display: none;
+	text-align: left;
+}
+ul li:hover ul li
+{
+	border:none;
+	opacity: .9;
+	display: block;
+	width: 164px
+}
+.logo{padding: 0px;
+	margin:0px;
+	margin-right: 150px;
+	margin-left: 150px;
+	border:none;
+    border-color:;
+	height: 210px;
+	width: 1029px;
+	background-color:rgb(0,112,223);
+	
+	
+
+	
+
+	
+	 
+}
+
+
+.ft
+{
+
+	margin-top: 24px;
+	border:none;
+	float: right;
+	margin-right:80px;
+height: 100px;
+width: 100px;
+background: url('KNITlogo.png') no-repeat ;
+background-size: cover;
+
+}
+.fac
+{
+height: 250px;
+width: 1029px;
+border:none;
+border-color:060c5d;
+font-family: Arial;
+margin-top: 1px;
+margin-right: 150px;
+margin-left: 150px;
+background: url('knitinner_09.jpg') no-repeat;
+	background-size: cover;
+	}
+.block
+{
+	width:100px;
+	height: 100px;
+	border-style: groove;
+	border:solid;
+}
