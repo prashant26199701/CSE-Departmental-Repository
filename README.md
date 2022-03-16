@@ -42,7 +42,7 @@ The purpose CSE DEPARTMENT REPOSITORY is to allow the administrator of any organ
 <img src="ScreenShots/studentreg.png">
 
 ### Student show Page
-<img src="ScreenShots/studentshow.png">
+<img src="ScreenShots/studentshw.png">
 
 ### Faculty Show Page
 <img src="ScreenShots/facshow.png">
